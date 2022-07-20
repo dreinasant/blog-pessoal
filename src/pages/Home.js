@@ -1,25 +1,9 @@
 import React from "react";
 import "../App.css";
-import styled, { createGlobalStyle } from "styled-components";
+import styled from "styled-components";
 import imgAndreina from "../assets/img-andreina.jpg";
 
-import instagram from "../assets/instagram2.png";
-import github from "../assets/github.png";
-import linkedin from "../assets/linkedin.png";
 
-
-/*
-const Header = styled.header`
-background-image: url(${imagemDeFundo});
-background-size: cover;
-background-repeat: no-repeat;
-width:100%;  
-height: 100vh;
-position: absolute;
-top: 0vw;
-
-`
-*/
 const P = styled.p`
 margin-top: vw;
 margin-right: vw;
@@ -43,16 +27,6 @@ display: flex;
   margin-top: 20vh;
  
 `
-const H1 = styled.h1`
-color: black;
-position: absolute;
-top: 50vw;
-right: 39vw;
-z-index: 10;
-`
-
-
-
 
 
 export default function Home(){
@@ -61,7 +35,6 @@ export default function Home(){
         <div>
           
         <header className="header">
-        
         <BoxImg>
           <ImgAndreina src={imgAndreina} alt="img andreina"/>
           <div className="container-title">
