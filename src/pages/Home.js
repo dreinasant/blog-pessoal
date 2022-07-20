@@ -3,15 +3,6 @@ import "../App.css";
 import styled from "styled-components";
 import imgAndreina from "../assets/img-andreina.jpg";
 
-
-const P = styled.p`
-margin-top: vw;
-margin-right: vw;
-color: black;
-font-size: 1.5em;
-font-weight: bold;
-`
-
 const ImgAndreina = styled.img`
 margin-top: vw;
 border-radius: 50%;
