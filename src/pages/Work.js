@@ -19,7 +19,7 @@ export default class Works extends Component {
                 
                   <div className="box-butom" >
                   <a title="Pou" href="https://projeto-pou-contador.netlify.app/" target="_blank">Pou</a>
-                  <a title="Projeto objetivos sustentável" href="https://projeto-objetivos-sustentavel.netlify.app" target="_blank">Projeto objetivos sustentável</a>
+                  <a title="Projeto objetivos sustentável" href="https://aquamarine-gnome-5a8165.netlify.app/" target="_blank">Projeto objetivos sustentável</a>
                   <a title="Filmes api" href="https://projeto-api-filmes-series.netlify.app/" target="_blank">Projeto filmes api</a>
                   <a title="Projeto de inglês dog e cat" href="https://projeto-de-ingles-dog-cat.netlify.app/" target="_blank">Projeto de inglês dog e cat</a>
                   <a title="projeto de filmes e séries" href="https://projeto-de-filmes.netlify.app/" target="_blank">Projeto de filmes e Series</a>
