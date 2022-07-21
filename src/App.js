@@ -46,12 +46,20 @@ const Nav = styled.nav`
   width: 100%;
   position: relative;  
   z-index: 99;
+
+  @media(max-width: 730px){
+    font-size: 0.7em;
+    margin-top: 4px;
+  }
   
 `
 const ImgIcon = styled.img`
   width: 4.3vw;
   padding: 1vw;
   
+  @media(max-width: 730px){
+    width: 21.4px;
+  }
 `
 
 

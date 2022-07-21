@@ -20,6 +20,14 @@ body{
   margin-left: 1vw;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: 600;
+
+}
+
+@media(max-width: 730px){
+  .paragrafo-blog{
+    margin-bottom: 1px;
+  }
+  
 }
 
 .text-h1 {
